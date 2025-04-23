@@ -42,3 +42,5 @@ My template: https://files.catbox.moe/q7cdsu.pdf; print and enjoy.
     - Don’t filter wisdom through mess. Log it clean while it's hot.
 ## Supplementary
 - Learning a shorthand like [Stone Optimised Shorthand](https://github.com/jamesstoneco/stone-optimized-shorthand)
+
+*April 6, 2025*
