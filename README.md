@@ -11,25 +11,31 @@ And I am tired of being stuck in my comfort zone, not being able to proceed acad
 But I am different: I am cannot be put in one box. I am not going to be conformed by this hell. This is the way it's going to go: **I am going to escape the system by beating the system.** I am going to become **inevitable**. 
 
 I have declared a **war on mediocrity**.
+
+See the evergreen [page](https:nibirsan.org/war) related to this topic on my website.
 ### The mission: becoming an Übermensch, escaping academic hell, creating something better.
 ## What's in this repo?
 This is the *barracks* of this war. This is where everything happens. This is where I learn, reflect, win and fail. This is where YOU will find yourself.
 ### Structure:
-```markdown
-.
-├── README.md
+```
+├── README
 ├── commandments.md
 ├── milestones/
 │   └── where I win.
 ├── reflections/
-│   └── where I reflect.
+│   └── where I reflect and share my failures.
 ├── scenarios/
 │   └── what might happen.
 └── systems/
     └── where I share my tactics.
 ```
 ## Other Links
-To spread the propaganda:
-- Blog
-- YouTube
-- Newsletter
+Visit other parts of this perpetual war:
+- [Blog](https://nibirsan.org/blog/)
+- My evergreen [pages](https://nibirsan.org/pages/)
+- [YouTube](https://www.youtube.com/@nibirsankar)
+- [Podcast](https://nibirsan.org/podcast)
+
+---
+
+> Never settle. Never drift. Never waste pain
