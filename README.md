@@ -12,8 +12,8 @@ I am a senior high-schooler from India who thrives to learn new things, improve 
 And I am tired of being stuck in my comfort zone with my nagging parent in this cesspool of a system. This is really not something I want.
 
 - When I should've been learning, I am finishing mundane assignments.
+- When I should've been building something good, I am compelled not to by my own laziness.
 - When I should've been chasing mastery, I am chasing attendance in school.
-- When I should've been building something good, I am supposed to start ???
 - **When I should've been transcending, I am stopped by the system.**
 
 But I am different: I am cannot be put in one box. I am sure as hell *not* going to be conformed by this hell. 
@@ -25,7 +25,7 @@ And this is the way it's going to go: **I am going to escape the system by beati
 - **Academics**: using Progressive Overload, efficient study techniques and deep work.
 - **Physical**: letting go of comfort, physical exercise as a part of identity.
 - **Mental**: seeking equanimity and accepting everything as *your* responsibility.
-- **Spiritual**: Loving fate (*amor fati*)
+- **Spiritual**: Loving fate (*amor fati*), embracing joy.
 
 And so much more. The Last Destination: *becoming* out of your own league.
 #### But!
