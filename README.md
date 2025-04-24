@@ -1,7 +1,9 @@
 # War against mediocrity
-This is the HQ for the war against mediocrity, comfort and tradition. How much nagging will you take? How much longer will you wait to go beyond your comfort zone and not seek challenges? How much will you let the others control *you*? 
+How much nagging will you take? How much longer will you wait to go beyond your comfort zone and not seek challenges? How much will you let the others control *you*? 
 
-This repo is where I learn, reflect, win and fail. I will log as much as I can, showing you my journey of becoming an Übermensch and making sure that you'll get something from it. This might just be the place where YOU will find yourself. 
+This repo is where I learn, reflect, win and fail. I will log as much as I can, showing you my journey of becoming an Übermensch and making sure that you'll get something from it. This is the HQ for the war I have declared **against mediocrity, comfort and tradition**.
+
+The central idea of this war is the [Übermensch](https://www.youtube.com/watch?v=EdNpNGqi0Ks): the one who crosses the proverbial bridge. My aim is to transcend beyond the norm, the commonplace and venture onto the forbidden. 
 
 It's time to get things in your control and become inevitable. Borrowing from Cal Newport: become so good they can't ignore you.
 ## Who am I and why am I doing this?
@@ -31,8 +33,6 @@ And so much more. The Last Destination: *becoming* out of your own league.
 - This needs extreme focus.
 - This takes time.
 - This requires you to **let go**. No more bullshitting.
-
-The central idea of this war is the [Übermensch](https://www.youtube.com/watch?v=EdNpNGqi0Ks): the one who crosses the proverbial bridge. My aim is to transcend beyond the norm, the commonplace and venture onto the forbidden.
 ## The 7 Commandments of this War 
 I review these to remind myself what I stand for.
 
