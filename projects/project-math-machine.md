@@ -24,7 +24,7 @@ I am thinking of pursuing my undergrads in Abstract Math / Cs / or adjacent. The
 
 - [ ] Finish Introduction to Mathematical Thinking ([Coursera](https://www.coursera.org/learn/mathematical-thinking))
 - [ ] Finish Reading "How To Solve It" by G. Polya. 
-- [ ] Solve **AoSP Intro Series** problems
+- [ ] Solve **AoPS Intro Series** problems
 	- [ ] Algebra
 	- [ ] C&P
 	- [ ] Number Theory
