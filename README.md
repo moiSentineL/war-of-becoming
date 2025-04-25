@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://github.com/moiSentineL/war-hq/blob/main/assets/war.png?raw=true" style="margin-right: 10px; vertical-align: middle">
 </p>
-How much nagging will you take? How much longer will you wait to go beyond your comfort zone and not seek challenges? How much will you let the others control *you*? 
+
+How much nagging will you take? How much longer will you wait to go beyond your comfort zone and seek challenges? How much will you let the others control *you*? 
 
 This repo is where I learn, reflect, win and fail. I will log as much as I can, showing you my journey of becoming an Übermensch and making sure that you'll get something from it. This is the HQ for the war I have declared **against mediocrity, comfort and tradition**.
 
@@ -33,7 +34,7 @@ And so, I have declared a **war of becoming**.
 
 And so much more. The Last Destination: *becoming* out of your own league.
 #### But!
-- This is not going to be easy.
+- This is not going to be easy. I will suffer.
 - This needs extreme focus.
 - This takes time.
 - This requires you to **let go**. No more bullshitting.
@@ -74,7 +75,12 @@ Visit other parts of this perpetual war:
 - My evergreen [pages](https://nibirsan.org/pages/)
 - [YouTube](https://www.youtube.com/@nibirsankar)
 - [Podcast](https://nibirsan.org/podcast)
+# What should YOU Do?
+Fork this repo. And start your own war. Build your own rules, build your own values. Remake yourself.
+
+This fucking matters. **Never settle. Never drift. Never waste pain.**
 
 ---
 
-> Never settle. Never drift. Never waste pain
+*Nibir Sankar, 2025.*
+
