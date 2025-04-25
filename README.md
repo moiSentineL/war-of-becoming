@@ -1,4 +1,6 @@
-# War against mediocrity
+<p align="center">
+  <img src="https://raw.githubusercontent.com/moiSentineL/war-hq/main/assets/crop war.png" style="margin-right: 10px; vertical-align: middle">
+</p>
 How much nagging will you take? How much longer will you wait to go beyond your comfort zone and not seek challenges? How much will you let the others control *you*? 
 
 This repo is where I learn, reflect, win and fail. I will log as much as I can, showing you my journey of becoming an Übermensch and making sure that you'll get something from it. This is the HQ for the war I have declared **against mediocrity, comfort and tradition**.
@@ -18,7 +20,9 @@ And I am tired of being stuck in my comfort zone with my nagging parent in this 
 
 But I am different: I am cannot be put in one box. I am sure as hell *not* going to be conformed by this hell. 
 
-And this is the way it's going to go: **I am going to escape the system by beating the system.** I am going to become **inevitable** and make **my own life** and cherish it with all my heart. And so, I have declared a **war on mediocrity**. 
+And this is the way it's going to go: **I am going to escape the system by beating the system.** I am going to become **inevitable** and make **my own life** and cherish it with all my heart.
+
+And so, I have declared a **war of becoming**. 
 ### The mission: becoming an [Übermensch](https://www.youtube.com/watch?v=EdNpNGqi0Ks), escaping academic hell, creating something better.
 
 #### How?
@@ -49,12 +53,16 @@ See the [commandments](commandments.md) as whole.
 This is the *barracks* of this war. This is where everything happens.
 ### Structure:
 ```
-├── README
+├── README.md
 ├── commandments.md
+├── wins/
+│   └── where I win (daily episodes).
 ├── milestones/
-│   └── where I win.
+│   └── where I win (season finales).
+├── projects/
+│   └── my past and current projects.
 ├── reflections/
-│   └── where I reflect and share my failures.
+│   └── where I reflect.
 ├── scenarios/
 │   └── what might happen.
 └── systems/
