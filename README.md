@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/moiSentineL/war-hq/main/assets/crop war.png" style="margin-right: 10px; vertical-align: middle">
+  <img src="https://github.com/moiSentineL/war-hq/blob/main/assets/war.png?raw=true" style="margin-right: 10px; vertical-align: middle">
 </p>
 How much nagging will you take? How much longer will you wait to go beyond your comfort zone and not seek challenges? How much will you let the others control *you*? 
 
