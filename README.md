@@ -64,8 +64,8 @@ This is the *barracks* of this war. This is where everything happens.
 │   └── my past and current projects.
 ├── reflections/
 │   └── where I reflect.
-├── scenarios/
-│   └── what might happen.
+├── goals/
+│   └── monthly / periodica goals to accomplish.
 └── systems/
     └── where I share my tactics.
 ```
