@@ -8,9 +8,9 @@
 ### 🔥 What I Did
 - I created a few animations:
 
-[![transpose matri](https://pixvid.org/images/2025/05/02/transpose-matri.md.gif)](https://pixvid.org/image/transpose-matri.5539)
+![transpose matri](https://pixvid.org/images/2025/05/02/transpose-matri.gif)
 
-[![skew sym](https://pixvid.org/images/2025/05/02/skew-sym.md.gif)](https://pixvid.org/image/skew-sym.55dE)
+![skew sym](https://pixvid.org/images/2025/05/02/skew-sym.gif)
 
 And it felt super nice!
 
