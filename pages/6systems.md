@@ -1,8 +1,9 @@
 ---
 layout: page
 title: systems
+permalink: /systems/
 ---
-here are my daily wins lol.
+here are my systems lol.
 
 <ul>
   {% assign all_systems = site.systems | sort: "date" | reverse %}

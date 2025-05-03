@@ -1,6 +1,7 @@
 ---
 layout: page
 title: reflections
+permalink: /reflections/
 ---
 here are my reflections lol.
 

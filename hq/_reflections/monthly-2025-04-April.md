@@ -1,4 +1,8 @@
-
+---
+layout: post
+title: Monthly Review for April, 2025
+date: 2025-05-01
+---
 # 🧠 Monthly Review For April, 2025
 ## I. Alignment Check 🔍  
 > *Am I becoming who I said I want to become?*
@@ -64,7 +68,8 @@
 | Content output (b+n+p+v) |                             | 3+1+1+0           | gotta be less perfect. embrace imperfection |
 | YouTube streams          | everyday exc sat, emergency | ?                 |                                             |
 | Forecasts made           |                             |                   |                                             |
-| School Chapters          | C-2, P-2, M-2               | C-1.5, P-2, M-2.5 | gotta track better.                         |
+| School Chapters          | C-2, P-2, M-2               | C-1.5, P-2, M-2.5 | gotta track better.                        |
+
 ## V. Forecast 🔮  
 > *What’s coming? What needs to be true by month-end?*
 

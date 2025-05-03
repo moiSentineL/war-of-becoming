@@ -1,6 +1,7 @@
 ---
 layout: page
 title: milestones
+permalink: /milestones/
 ---
 here are my milestones lol.
 

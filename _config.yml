@@ -1,4 +1,5 @@
 plugins: [jekyll-paginate]
+
 # Dependencies
 markdown:         kramdown
 highlighter:      pygments
@@ -30,8 +31,8 @@ collections:
       permalink: /goals/:name/
 
 # Setup
-title:            War of Becoming
-tagline:          'being a better person, in public.'
+title:            The War
+tagline:          'build a better person.'
 description:      'fighting a war against comfort, mediocrity and tradition in public.'
 url:              http://nibirsan.org/war-of-becoming/
 baseurl:          /
@@ -41,9 +42,6 @@ author:
   url:            https://nibirsan.org/
 
 paginate:         5
-
-# Custom vars
-version:          1.1.0
 
 github:
   repo:           https://github.com/moisentinel/war-of-becoming/

@@ -17,9 +17,11 @@ Here's my Workflow:
 - Section Dividers (3-4 based on no. of subs)
 - Rough Pad for all the rough work
 - 2 Pens - one black and one blue.
+
 ## How it works
->[!tldr] 
+>[!TLDR] 
 >Your main objective is to curate information that you actually need at school. Your Obsidian workflow will handle the rest.
+
 ### Rough Pad
 **Use when:**
 - You're solving something _for the first time_
@@ -28,6 +30,7 @@ Here's my Workflow:
 - You're warming up before a real problem set
 
 > “If you’re bleeding ink and don’t know what the fuck is happening — it’s rough.”
+
 ### Capture Sheets (A5 folded pages)
 My template: https://files.catbox.moe/q7cdsu.pdf; print and enjoy.
 
@@ -38,6 +41,7 @@ My template: https://files.catbox.moe/q7cdsu.pdf; print and enjoy.
 - You want to mark it for transfer (to Obsidian / flashcard)
 
 >“If you’d explain it to a clone of you who's weaker and sleepier — it’s capture.”
+
 ### The ‘Hybrid’ Moves
 - **Solve in rough → Summarize on capture**
 	- Perfect for hard questions, error analysis, exam prep
@@ -45,6 +49,7 @@ My template: https://files.catbox.moe/q7cdsu.pdf; print and enjoy.
     - Shortcut, pattern, general insight = golden.
 - **Learn from teacher → Capture directly**
     - Don’t filter wisdom through mess. Log it clean while it's hot.
+    
 ## Supplementary
 - Learning a shorthand like [Stone Optimised Shorthand](https://github.com/jamesstoneco/stone-optimized-shorthand)
 
