@@ -13,7 +13,7 @@ collections_dir: hq
 collections:
   wins:
       output: true
-      permalink: /wins/:name/
+      permalink: /war-of-becoming/wins/:name/
   milestones:
       output: true
       permalink: /milestones/:name/
