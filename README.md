@@ -55,22 +55,26 @@ See the [commandments](commandments.md) as whole.
 
 ## What's in this repo?
 This is the *barracks* of this war. This is where everything happens.
+
 ### Structure:
+Only if you're viewing this on GitHub lol.
+
 ```
 ├── README.md
 ├── commandments.md
-├── wins/
-│   └── where I win (daily episodes).
-├── milestones/
-│   └── where I win (season finales).
-├── projects/
-│   └── my past and current projects.
-├── reflections/
-│   └── where I reflect.
-├── goals/
-│   └── monthly / periodica goals to accomplish.
-└── systems/
-    └── where I share my tactics.
+└── hq (main folder)/
+    ├── _wins/
+    │   └── where I win (daily episodes).
+    ├── _milestones/
+    │   └── where I win (season finales).
+    ├── _projects/
+    │   └── my past and current projects.
+    ├── _reflections/
+    │   └── where I reflect.
+    ├── _goals/
+    │   └── what might happen.
+    └── _systems/
+        └── where I share my tactics.
 ``` 
 
 ## Other Links
