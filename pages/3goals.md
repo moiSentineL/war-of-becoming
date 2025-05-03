@@ -14,6 +14,6 @@ here are all my goals lol
 <ul>
   {% assign all_goals = site.goals | sort: "date" | reverse %}
   {% for goal in all_goals %}
-    <li><a href="{{ goal.url } | relative_url }">{{ goal.title }}</a></li>
+    <li><a href="{{ goal.url | relative_url }}">{{ goal.title }}</a></li>
   {% endfor %}
 </ul>
