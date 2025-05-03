@@ -33,11 +33,13 @@ And so, I have declared a **war of becoming**.
 - **Spiritual**: Loving fate (*amor fati*), embracing joy.
 
 And so much more. The Last Destination: *becoming* out of your own league.
+
 #### But!
 - This is not going to be easy. I will suffer.
 - This needs extreme focus.
 - This takes time.
 - This requires you to **let go**. No more bullshitting.
+
 ## The 7 Commandments of this War 
 I review these to remind myself what I stand for.
 
@@ -50,31 +52,39 @@ I review these to remind myself what I stand for.
 7. **I am done being mid. I am inevitable.** 
 
 See the [commandments](commandments.md) as whole.
+
 ## What's in this repo?
 This is the *barracks* of this war. This is where everything happens.
+
 ### Structure:
+Only if you're viewing this on GitHub lol.
+
 ```
 ├── README.md
 ├── commandments.md
-├── wins/
-│   └── where I win (daily episodes).
-├── milestones/
-│   └── where I win (season finales).
-├── projects/
-│   └── my past and current projects.
-├── reflections/
-│   └── where I reflect.
-├── goals/
-│   └── monthly / periodica goals to accomplish.
-└── systems/
-    └── where I share my tactics.
-```
+└── hq (main folder)/
+    ├── _wins/
+    │   └── where I win (daily episodes).
+    ├── _milestones/
+    │   └── where I win (season finales).
+    ├── _projects/
+    │   └── my past and current projects.
+    ├── _reflections/
+    │   └── where I reflect.
+    ├── _goals/
+    │   └── what might happen.
+    └── _systems/
+        └── where I share my tactics.
+``` 
+
 ## Other Links
 Visit other parts of this perpetual war:
+
 - [Blog](https://nibirsan.org/blog/)
 - My evergreen [pages](https://nibirsan.org/pages/)
 - [YouTube](https://www.youtube.com/@nibirsankar)
 - [Podcast](https://nibirsan.org/podcast)
+
 # What should YOU Do?
 Fork this repo. And start your own war. Build your own rules, build your own values. Remake yourself.
 

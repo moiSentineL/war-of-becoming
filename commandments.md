@@ -1,4 +1,8 @@
-## The 7 Commandments
+---
+layout: page
+title: the 7 commandments
+permalink: /commandments/
+---
 1. **I do deep, meaningful work. I do not fuck around.**  
     This life is too short for mediocrity or bullshit.
 2. **I am a problem-solving machine. I never settle.**  
