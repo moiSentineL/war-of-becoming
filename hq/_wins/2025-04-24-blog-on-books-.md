@@ -1,3 +1,8 @@
+---
+title: blog on books
+date: 2025-04-24
+---
+
 # [🏆] blog on books
 
 **Date:** 2025-04-24  

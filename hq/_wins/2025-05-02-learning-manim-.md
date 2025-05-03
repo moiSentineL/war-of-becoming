@@ -1,4 +1,9 @@
-# [🏆] learning manim
+---
+title: learning manim
+date: 2025-05-02
+layout: post
+---
+# [🏆]  learning manim
 
 **Date:** 2025-05-02  
 **Time Spent:** 1.3h 

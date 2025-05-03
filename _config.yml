@@ -1,5 +1,49 @@
-title: War Repo
-theme: minima
-markdown: kramdown
-permalink: pretty
+plugins: [jekyll-paginate]
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
 
+# Permalinks
+permalink:        pretty
+relative_permalinks: false
+
+# Collections
+collections_dir: hq
+collections:
+  wins:
+      output: true
+      permalink: /wins/:name/
+  milestones:
+      output: true
+      permalink: /milestones/:name/
+  projects:
+      output: true
+      permalink: /projects/:name/
+  reflections:
+      output: true
+      permalink: /reflections/:name/
+  systems:
+      output: true
+      permalink: /systems/:name/
+  goals:
+      output: true
+      permalink: /goals/:name/
+
+# Setup
+title:            War of Becoming
+tagline:          'being a better person, in public.'
+description:      'fighting a war against comfort, mediocrity and tradition in public.'
+url:              http://nibirsan.org/war-of-becoming/
+baseurl:          /
+
+author:
+  name:           'Nibir Sankar'
+  url:            https://nibirsan.org/
+
+paginate:         5
+
+# Custom vars
+version:          1.1.0
+
+github:
+  repo:           https://github.com/moisentinel/war-of-becoming/

@@ -1,4 +1,9 @@
-# [🏆] solving some olympiad questions
+---
+title: solving some olympiad questions
+date: 2025-05-02
+layout: post
+---
+# [🏆]  solving some olympiad questions
 
 **Date:** 2025-05-02  
 **Time Spent:** 2h 

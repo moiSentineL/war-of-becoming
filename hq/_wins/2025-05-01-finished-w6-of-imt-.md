@@ -1,4 +1,9 @@
-# [🏆] finished W6 of IMT
+---
+title: finished W6 of IMT
+date: 2025-05-01
+layout: post
+---
+# [🏆]  finished W6 of IMT
 
 **Date:** 2025-05-01  
 **Time Spent:** idk, a lot. 

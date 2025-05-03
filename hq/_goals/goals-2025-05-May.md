@@ -1,3 +1,9 @@
+---
+layout: post
+title: Goals for May, 2025
+date: 2025-05-01
+---
+
 # 🏁 Goals for May, 2025
 ## Work
 - [ ] **Finish IMT for sure.**

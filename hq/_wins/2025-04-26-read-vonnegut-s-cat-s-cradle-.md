@@ -1,4 +1,9 @@
-# [🏆] read vonnegut's cat's cradle
+---
+title: read vonnegut's cat's cradle
+date: 2025-04-26
+layout: post
+---
+# [🏆]  read vonnegut's cat's cradle
 
 **Date:** 2025-04-26  
 **Time Spent:** about 5 hours 

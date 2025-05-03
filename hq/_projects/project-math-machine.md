@@ -1,3 +1,11 @@
+---
+layout: post
+title: Project Math Machine
+date: 2024-12-27
+date-end:
+status: In Progress
+tags: math, study
+---
 # Project: [Math Machine]
 
 > Status: In Progress

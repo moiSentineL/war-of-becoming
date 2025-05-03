@@ -1,4 +1,9 @@
-# [🏆] solving math and getting humbled
+---
+title: solving math and getting humbled
+date: 2025-04-28
+layout: post
+---
+# [🏆]  solving math and getting humbled
 
 **Date:** 2025-04-28  
 **Time Spent:**  1h 

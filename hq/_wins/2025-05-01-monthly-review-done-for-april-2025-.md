@@ -1,4 +1,9 @@
-# [🏆] monthly review done for april 2025
+---
+title: monthly review done for april 2025
+date: 2025-05-01
+layout: post
+---
+# [🏆]  monthly review done for april 2025
 
 **Date:** 2025-05-01  
 **Time Spent:** 1h40m 

@@ -1,4 +1,9 @@
-# [🏆] worked on expanding my comfort zone
+---
+title: worked on expanding my comfort zone
+date: 2025-04-27
+layout: post
+---
+# [🏆]  worked on expanding my comfort zone
 
 **Date:** 2025-04-27  
 **Time Spent:** 2 hours 

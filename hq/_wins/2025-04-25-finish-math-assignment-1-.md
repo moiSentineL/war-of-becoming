@@ -1,3 +1,8 @@
+---
+title: finish math assignment 1 (school)
+date: 2025-04-25
+layout: post
+---
 # [🏆] finish math assignment 1 (school)
 
 **Date:** 2025-04-25  

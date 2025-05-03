@@ -1,3 +1,8 @@
+---
+layout: post
+title: My Physical Notetaking System
+date: 2025-04-24
+---
 # My Physical Notetaking System
 ## About
 I tend to prioritise portability and modularity when it comes to physical note-taking. I wouldn't want 5 separate notebooks for every subject just so I can note something down that won't even stick to my mind for a long time.

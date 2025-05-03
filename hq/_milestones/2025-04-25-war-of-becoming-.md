@@ -1,3 +1,8 @@
+---
+title: declared the war of becoming
+date: 2025-04-25
+layout: post
+--- 
 # [🎯] declared the war of becoming
 
 **Date:** 2025-04-25  

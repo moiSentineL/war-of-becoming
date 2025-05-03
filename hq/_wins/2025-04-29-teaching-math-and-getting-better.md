@@ -1,4 +1,9 @@
-# [🏆] teaching math and getting better
+---
+title: teaching math and getting better
+date: 2025-04-29
+layout: post
+---
+# [🏆]  teaching math and getting better
 
 **Date:** 2025-04-29
 **Time Spent:**  1h 

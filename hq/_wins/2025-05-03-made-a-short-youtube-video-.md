@@ -1,4 +1,9 @@
-# [🏆] made a short youtube video
+---
+title: made a short youtube video
+date: 2025-05-03
+layout: post
+---
+# [🏆]  made a short youtube video
 
 **Date:** 2025-05-03  
 **Time Spent:** <=3h  
