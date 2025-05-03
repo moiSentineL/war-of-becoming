@@ -13,29 +13,29 @@ collections_dir: hq
 collections:
   wins:
       output: true
-      permalink: /war-of-becoming/wins/:name/
+      permalink: /wins/:name/
   milestones:
       output: true
-      permalink: /war-of-becoming/milestones/:name/
+      permalink: /milestones/:name/
   projects:
       output: true
-      permalink: /war-of-becoming/projects/:name/
+      permalink: /projects/:name/
   reflections:
       output: true
-      permalink: /war-of-becoming/reflections/:name/
+      permalink: /reflections/:name/
   systems:
       output: true
-      permalink: /war-of-becoming/systems/:name/
+      permalink: /systems/:name/
   goals:
       output: true
-      permalink: /war-of-becoming/goals/:name/
+      permalink: /goals/:name/
 
 # Setup
 title:            The War
 tagline:          'build a better person.'
 description:      'fighting a war against comfort, mediocrity and tradition in public.'
 url:              http://nibirsan.org
-baseurl:          /war-of-becoming
+baseurl:          
 
 author:
   name:           'Nibir Sankar'
@@ -44,4 +44,4 @@ author:
 paginate:         5
 
 github:
-  repo:           https://github.com/moisentinel/war-of-becoming/
+  repo:           https://github.com/moisentinel/
