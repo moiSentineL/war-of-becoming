@@ -1,7 +1,7 @@
 ---
 layout: page
 title: goals
-permalink: /goals/
+permalink: /{{ site.baseurl }}/goals/
 ---
 here are all my goals lol
 

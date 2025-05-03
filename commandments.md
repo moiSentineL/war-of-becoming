@@ -1,7 +1,7 @@
 ---
 layout: page
 title: the 7 commandments
-permalink: /commandments/
+permalink: /{{ site.baseurl }}/commandments/
 ---
 1. **I do deep, meaningful work. I do not fuck around.**  
     This life is too short for mediocrity or bullshit.

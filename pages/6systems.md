@@ -1,7 +1,7 @@
 ---
 layout: page
 title: systems
-permalink: /systems/
+permalink: /{{ site.baseurl }}/systems/
 ---
 here are my systems lol.
 

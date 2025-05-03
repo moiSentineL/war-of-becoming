@@ -1,7 +1,7 @@
 ---
 layout: page
 title: wins
-permalink: /wins/
+permalink: /{{ site.baseurl }}/wins/
 ---
 here are my daily wins lol.
 

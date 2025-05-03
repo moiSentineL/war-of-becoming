@@ -1,7 +1,7 @@
 ---
 layout: page
 title: milestones
-permalink: /milestones/
+permalink: /{{ site.baseurl }}/milestones/
 ---
 here are my milestones lol.
 

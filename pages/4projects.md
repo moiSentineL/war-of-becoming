@@ -1,7 +1,7 @@
 ---
 layout: page
 title: projects
-permalink: /projects/
+permalink: /{{ site.baseurl }}/projects/
 ---
 here are my projects lol.
 
