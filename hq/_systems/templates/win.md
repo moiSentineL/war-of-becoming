@@ -1,3 +1,8 @@
+---
+layout: post
+title: {{TITLE}}
+date: {{DATE}}
+---
 # [🏆] {{TITLE}}
 
 **Date:** {{DATE}}  
