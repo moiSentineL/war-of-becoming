@@ -60,6 +60,7 @@ This is the *barracks* of this war. This is where everything happens.
 Only if you're viewing this on GitHub lol.
 
 ```
+├── assets
 ├── README.md
 ├── commandments.md
 └── hq (main folder)/
@@ -75,7 +76,9 @@ Only if you're viewing this on GitHub lol.
     │   └── what might happen.
     └── _systems/
         └── where I share my tactics.
-``` 
+```
+
+There might also be something useful in the [assets](https://github.com/moiSentineL/war-of-becoming/tree/main/assets) folder as well.
 
 ## Other Links
 Visit other parts of this perpetual war:
