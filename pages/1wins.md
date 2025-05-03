@@ -1,6 +1,7 @@
 ---
 layout: page
 title: wins
+permalink: /wins/
 ---
 here are my daily wins lol.
 

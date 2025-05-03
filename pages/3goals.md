@@ -1,6 +1,7 @@
 ---
 layout: page
 title: goals
+permalink: /goals/
 ---
 here are all my goals lol
 

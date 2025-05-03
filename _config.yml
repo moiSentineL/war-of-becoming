@@ -13,22 +13,22 @@ collections_dir: hq
 collections:
   wins:
       output: true
-      permalink: /wins/:name/
+      permalink: /war-of-becoming/wins/:name/
   milestones:
       output: true
-      permalink: /milestones/:name/
+      permalink: /war-of-becoming/milestones/:name/
   projects:
       output: true
-      permalink: /projects/:name/
+      permalink: /war-of-becoming/projects/:name/
   reflections:
       output: true
-      permalink: /reflections/:name/
+      permalink: /war-of-becoming/reflections/:name/
   systems:
       output: true
-      permalink: /systems/:name/
+      permalink: /war-of-becoming/systems/:name/
   goals:
       output: true
-      permalink: /goals/:name/
+      permalink: /war-of-becoming/goals/:name/
 
 # Setup
 title:            The War

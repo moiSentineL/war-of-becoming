@@ -1,6 +1,7 @@
 ---
 layout: page
 title: systems
+permalink: /systems/
 ---
 here are my systems lol.
 
