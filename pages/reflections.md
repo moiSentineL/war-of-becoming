@@ -1,7 +1,6 @@
 ---
 layout: page
 title: reflections
-permalink: /{{ site.baseurl }}/reflections/
 ---
 here are my reflections lol.
 
