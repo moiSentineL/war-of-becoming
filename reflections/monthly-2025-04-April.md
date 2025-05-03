@@ -15,7 +15,7 @@
 > *Proof I’m not rotting.*
 
 - Top 3 tangible wins  
-	- [[War of Becoming]]
+	- [[The War of Becoming]]
 	- Better schedule and moving on to 6h focus hours
 	- New vault system and revamp
 - Systems I improved or debugged 
