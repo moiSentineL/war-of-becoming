@@ -27,7 +27,7 @@ date: 2025-05-01
 	- [ ] finish >=60% Warburton's "A Little History of Philosophy"
 
 ## Health
-- [x] Proper post-dinner cooldown. No more bullshiting
+- [ ] Proper post-dinner cooldown. No more bullshiting
 - [x] Replace slacking off with reading.
 
 ## Relationships
