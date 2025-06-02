@@ -1,6 +1,7 @@
 ---
 title: blog on books
 date: 2025-04-24
+layout: post
 ---
 
 # [🏆] blog on books
