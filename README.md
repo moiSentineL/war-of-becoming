@@ -2,6 +2,15 @@
 This is what this is all about.
 
 Check the [website](https://nibirsan.org/war-of-becoming/) for more info.
+
+### Note: this project is now archived and read-only. 
+
+*(September 09, 2025)*
+
+I evolved. And I realised that this website/war/ritual doesn't help me as much as I thought it would.
+
+Things that had the biggest impact are logging daily wins and the 7 commandments. Others? Not so much. So I have shifted the daily wins to a [public Telegram Channel](https://t.me/nibirwins) and archived this project. 
+
 ## What's in this repo?
 This is the *barracks* of this war. This is where everything happens.
 ### Structure:

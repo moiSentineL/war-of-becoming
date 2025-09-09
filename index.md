@@ -6,6 +6,22 @@ title: The War
   <img src="https://github.com/moiSentineL/war-hq/blob/main/assets/war.png?raw=true" style="margin-right: 10px; vertical-align: middle">
 </p>
 
+## This project is now archived.
+
+*(September 09, 2025)*
+
+I evolved. And I realised that this website/war/ritual doesn't help me as much as I thought it would.
+
+Things that had the biggest impact are logging daily wins and the 7 commandments. Others? Not so much. So I have shifted the daily wins to a [public Telegram Channel](https://t.me/nibirwins) and archived this project. 
+
+Though I still stand for most of the values, but I feel I don't need *this* website to inculcate them in me. Hence, from now onwards, I would only focus in logging my wins and making updates on my blog/evergreen pages or my YouTube channel.
+
+Visit [my website](https://nibirsan.org/) if you want to see more updates.
+
+See ya around.
+
+---
+
 This website is dedicated to building a better person in public. This is where I learn, reflect, win and fail. I will log as much as I can, showing you my journey of becoming someone better. This is the HQ for the war I have declared **against mediocrity, comfort and tradition**.
 
 The central idea of this war is the [Übermensch](https://www.youtube.com/watch?v=EdNpNGqi0Ks): the one who crosses the proverbial bridge. My aim is to transcend beyond the norm, the commonplace and venture onto the forbidden. 
